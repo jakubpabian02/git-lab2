@@ -1,1 +1,1 @@
-# Laboratorium 2 - Git
+# Laboratorium 2 - GIT
